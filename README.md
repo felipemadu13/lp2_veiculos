@@ -1,4 +1,8 @@
 # Sistema de Gestão de Veículos
+Disciplina: Lógica de Programação II
+Aluno: Felipe Madureira de Almeida
+Professor: ALAN DE OLIVEIRA SANTANA
+
 
 Descrição
 ---------
