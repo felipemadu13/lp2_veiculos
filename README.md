@@ -27,24 +27,4 @@ Regras de negócio (validações)
 - Placa: não vazia/única por repositório.
 - Outros: validações implementadas lançam `NegocioException`.
 
-Estrutura do projeto
---------------------
-src/br/com/autotrack/
-├── app/
-│   └── Main.java
-├── algorithm/
-│   ├── AvlTree.java
-│   └── MergeSort.java
-├── model/
-│   ├── Veiculo.java
-│   ├── Carro.java
-│   └── Moto.java
-├── repository/
-│   ├── RepositorioHash.java
-│   └── Repositorio.java
-├── annotation/
-│   └── InfoAutorPrinter.java
-└── exception/
-    └── NegocioException.java
-
 
